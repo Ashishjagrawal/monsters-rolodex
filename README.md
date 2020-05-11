@@ -1,3 +1,8 @@
+#Description
+As the name suggests its monsters-rolodex. It is a simple react app where i fetch data from different API's like for Name and E-mail details i used the API of the website "https://jsonplaceholder.typicode.com/users" and for the pictures of monsters i used th API of the website "https://robohash.org/". I also used props and other things to make the search box and filter the monsters according to the name.
+Checkout the live web app: https://monstersrollodex.netlify.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
