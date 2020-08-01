@@ -37,7 +37,7 @@ class App extends Component {
         <SearchBox onSearchChange={this.onSearchChange} />
         <CardList monsters={filteredMonsters} />
 
-        <h4>Developed By: Ashish Jagrawal</h4>
+        <h4>Developed By: "Ashish Jagrawal"</h4>
       </div>
     );
   }
